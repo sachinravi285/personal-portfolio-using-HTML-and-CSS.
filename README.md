@@ -8,7 +8,7 @@ It’s ideal for presenting yourself professionally to recruiters, companies, or
 
 ## 🔍 Live Preview
 
-🌐 [View Demo]([https://your-username.github.io/portfolio/](https://sachinravi285.github.io/personal-portfolio-using-HTML-and-CSS./))  
+🌐 [View Demo](https://sachinravi285.github.io/personal-portfolio-using-HTML-and-CSS./)]  
 📄 [Download Resume](./resume.pdf)
 
 ---
